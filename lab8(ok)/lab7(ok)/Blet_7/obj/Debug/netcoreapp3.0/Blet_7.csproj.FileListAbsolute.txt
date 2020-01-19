@@ -1,0 +1,22 @@
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.exe
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.deps.json
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.runtimeconfig.json
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.runtimeconfig.dev.json
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.dll
+D:\My\Dima labs\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.pdb
+D:\My\Dima labs\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.csprojAssemblyReference.cache
+D:\My\Dima labs\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.AssemblyInfoInputs.cache
+D:\My\Dima labs\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.AssemblyInfo.cs
+D:\My\Dima labs\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.dll
+D:\My\Dima labs\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.pdb
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.exe
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.deps.json
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.runtimeconfig.json
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.runtimeconfig.dev.json
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.dll
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\bin\Debug\netcoreapp3.0\Blet_7.pdb
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.csprojAssemblyReference.cache
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.AssemblyInfoInputs.cache
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.AssemblyInfo.cs
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.dll
+C:\Users\Marsik\Downloads\Blet_7\Blet_7\obj\Debug\netcoreapp3.0\Blet_7.pdb

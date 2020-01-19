@@ -1,0 +1,11 @@
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.exe
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.deps.json
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.runtimeconfig.json
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.runtimeconfig.dev.json
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.dll
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\bin\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.pdb
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\obj\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.csprojAssemblyReference.cache
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\obj\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.AssemblyInfoInputs.cache
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\obj\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.AssemblyInfo.cs
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\obj\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.dll
+D:\My\Dima labs\Aaaaa_8_lab_blet\Aaaaa_8_lab_blet\obj\Debug\netcoreapp3.0\Aaaaa_8_lab_blet.pdb
